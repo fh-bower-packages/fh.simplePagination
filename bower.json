@@ -1,0 +1,26 @@
+{
+  "name": "fh.simplePagination",
+  "version": "1.4",
+  "homepage": "https://github.com/fh-bower-packages/fh.simplePagination",
+  "authors": [
+    "Layton Whiteley <layton.whiteley@gmail.com>"
+  ],
+  "description": "simple pagination 1.4",
+  "main": [
+    "jquery.simplePagination.js", 
+    "simplePagination.css"
+    ],
+  "keywords": [
+    "pagination",
+    "simple",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
